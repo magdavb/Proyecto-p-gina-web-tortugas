@@ -23,6 +23,13 @@ header h1 {
     line-height: 1;
 }
 
+h2 {
+    font-size: 48px;
+    font-weight: 800;
+    color: #14532d;
+    margin-bottom: 25px;
+}
+
 .logo {
     width: 180px;
     height: 180px;
